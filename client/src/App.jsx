@@ -9,8 +9,8 @@ function App() {
     <BrowserRouter>
 
     <Router>
-      <Routes />
-      <Route path='/'></Route>
+      <Routes path='/' />
+      
     </Router>
     </BrowserRouter>
     </>
