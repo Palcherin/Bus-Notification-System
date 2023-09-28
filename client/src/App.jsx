@@ -9,7 +9,8 @@ function App() {
     <BrowserRouter>
 
     <Router>
-      <Routes path='/' />
+      <Route path='/' />
+      <Route></Route>
       
     </Router>
     </BrowserRouter>
