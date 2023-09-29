@@ -6,7 +6,7 @@ export default function Hero({children}) {
   return (
     <div>
       <Navbar />
-      {children}
+       {children}
       <Footer />
     </div>
   )
